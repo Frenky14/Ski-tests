@@ -1,0 +1,1596 @@
+{
+  "tests": [
+    {
+      "id": 1,
+      "country": {
+        "EN": "Poland",
+        "DE": "Polen",
+        "IT": "Polonia",
+        "FR": "Pologne",
+        "CZ": "Polsko",
+        "SI": "Poljska"
+      },
+      "skiResort": "Snow Expo Białka Tatrzańska",
+      "startDate": "2026-12-12",
+      "endDate": "2026-12-13",
+      "note": "https://bialkatatrzanska.pl/"
+    },
+    {
+      "id": 2,
+      "country": {
+        "EN": "Poland",
+        "DE": "Polen",
+        "IT": "Polonia",
+        "FR": "Pologne",
+        "CZ": "Polsko",
+        "SI": "Poljska"
+      },
+      "skiResort": "Snow Expo Krynica Zdrój",
+      "startDate": "2027-01-09",
+      "endDate": "2027-01-10",
+      "note": "https://jaworzynakrynicka.pl/"
+    },
+    {
+      "id": 3,
+      "country": {
+        "EN": "Poland",
+        "DE": "Polen",
+        "IT": "Polonia",
+        "FR": "Pologne",
+        "CZ": "Polsko",
+        "SI": "Poljska"
+      },
+      "skiResort": "Demo Tour Elan Wańkowa",
+      "startDate": "2027-01-28",
+      "endDate": "2027-01-29",
+      "note": "https://bieszczad.ski/"
+    },
+    {
+      "id": 4,
+      "country": {
+        "EN": "Poland",
+        "DE": "Polen",
+        "IT": "Polonia",
+        "FR": "Pologne",
+        "CZ": "Polsko",
+        "SI": "Poljska"
+      },
+      "skiResort": "Demo Tour Elan Ustrzyki Dolne",
+      "startDate": "2027-01-30",
+      "endDate": "2027-01-31",
+      "note": "https://ustrzyki-narty.pl/"
+    },
+    {
+      "id": 5,
+      "country": {
+        "EN": "Sweden",
+        "DE": "Schweden",
+        "IT": "Svezia",
+        "FR": "Suède",
+        "CZ": "Švédsko",
+        "SI": "Švedska"
+      },
+      "skiResort": "Vemdalen",
+      "startDate": "2026-11-27",
+      "endDate": "2026-11-28",
+      "note": ""
+    },
+    {
+      "id": 6,
+      "country": {
+        "EN": "Sweden",
+        "DE": "Schweden",
+        "IT": "Svezia",
+        "FR": "Suède",
+        "CZ": "Švédsko",
+        "SI": "Švedska"
+      },
+      "skiResort": "Lindvallen Sälen",
+      "startDate": "2026-12-04",
+      "endDate": "2026-12-05",
+      "note": ""
+    },
+    {
+      "id": 7,
+      "country": {
+        "EN": "Sweden",
+        "DE": "Schweden",
+        "IT": "Svezia",
+        "FR": "Suède",
+        "CZ": "Švédsko",
+        "SI": "Švedska"
+      },
+      "skiResort": "Åre",
+      "startDate": "2026-12-11",
+      "endDate": "2026-12-12",
+      "note": ""
+    },
+    {
+      "id": 8,
+      "country": {
+        "EN": "Switzerland",
+        "DE": "Schweiz",
+        "IT": "Svizzera",
+        "FR": "Suisse",
+        "CZ": "Švýcarsko",
+        "SI": "Švica"
+      },
+      "skiResort": "Zermatt",
+      "startDate": "2026-10-23",
+      "endDate": "2026-11-29",
+      "note": ""
+    },
+    {
+      "id": 9,
+      "country": {
+        "EN": "Switzerland",
+        "DE": "Schweiz",
+        "IT": "Svizzera",
+        "FR": "Suisse",
+        "CZ": "Švýcarsko",
+        "SI": "Švica"
+      },
+      "skiResort": "Davos",
+      "startDate": "2026-11-13",
+      "endDate": "2026-12-06",
+      "note": ""
+    },
+    {
+      "id": 10,
+      "country": {
+        "EN": "Switzerland",
+        "DE": "Schweiz",
+        "IT": "Svizzera",
+        "FR": "Suisse",
+        "CZ": "Švýcarsko",
+        "SI": "Švica"
+      },
+      "skiResort": "Lenk Simmental",
+      "startDate": "2026-12-05",
+      "endDate": "2026-12-06",
+      "note": ""
+    },
+    {
+      "id": 11,
+      "country": {
+        "EN": "Serbia",
+        "DE": "Serbien",
+        "IT": "Serbia",
+        "FR": "Serbie",
+        "CZ": "Srbsko",
+        "SI": "Srbija"
+      },
+      "skiResort": "Kopaonik",
+      "startDate": "2027-02-20",
+      "endDate": "2027-02-21",
+      "note": ""
+    },
+    {
+      "id": 12,
+      "country": {
+        "EN": "Greece",
+        "DE": "Griechenland",
+        "IT": "Grecia",
+        "FR": "Grèce",
+        "CZ": "Řecko",
+        "SI": "Grčija"
+      },
+      "skiResort": "TBD",
+      "startDate": "2027-02-27",
+      "endDate": "2027-02-28",
+      "note": ""
+    },
+    {
+      "id": 13,
+      "country": {
+        "EN": "Greece",
+        "DE": "Griechenland",
+        "IT": "Grecia",
+        "FR": "Grèce",
+        "CZ": "Řecko",
+        "SI": "Grčija"
+      },
+      "skiResort": "TBD",
+      "startDate": "2027-03-06",
+      "endDate": "2027-03-07",
+      "note": ""
+    },
+    {
+      "id": 14,
+      "country": {
+        "EN": "Czech Republic",
+        "DE": "Tschechische Republik",
+        "IT": "Repubblica Ceca",
+        "FR": "République tchèque",
+        "CZ": "Česká republika",
+        "SI": "Češka republika"
+      },
+      "skiResort": "Olešnice",
+      "startDate": "2027-02-06",
+      "endDate": "",
+      "note": ""
+    },
+    {
+      "id": 15,
+      "country": {
+        "EN": "Czech Republic",
+        "DE": "Tschechische Republik",
+        "IT": "Repubblica Ceca",
+        "FR": "République tchèque",
+        "CZ": "Česká republika",
+        "SI": "Češka republika"
+      },
+      "skiResort": "Mladé Buky",
+      "startDate": "2027-02-13",
+      "endDate": "",
+      "note": ""
+    },
+    {
+      "id": 16,
+      "country": {
+        "EN": "Slovakia",
+        "DE": "Slowakei",
+        "IT": "Slovacchia",
+        "FR": "Slovaquie",
+        "CZ": "Slovensko",
+        "SI": "Slovaška"
+      },
+      "skiResort": "Bachledka",
+      "startDate": "2027-02-06",
+      "endDate": "",
+      "note": ""
+    },
+    {
+      "id": 17,
+      "country": {
+        "EN": "Slovakia",
+        "DE": "Slowakei",
+        "IT": "Slovacchia",
+        "FR": "Slovaquie",
+        "CZ": "Slovensko",
+        "SI": "Slovaška"
+      },
+      "skiResort": "Snowparadise Veľká Rača Oščadnica",
+      "startDate": "2027-02-13",
+      "endDate": "",
+      "note": ""
+    },
+    {
+      "id": 18,
+      "country": {
+        "EN": "Austria",
+        "DE": "Österreich",
+        "IT": "Austria",
+        "FR": "Autriche",
+        "CZ": "Rakousko",
+        "SI": "Avstrija"
+      },
+      "skiResort": "Solden Winteropening Benelux",
+      "startDate": "2026-10-31",
+      "endDate": "2026-11-04",
+      "note": ""
+    },
+    {
+      "id": 19,
+      "country": {
+        "EN": "Austria",
+        "DE": "Österreich",
+        "IT": "Austria",
+        "FR": "Autriche",
+        "CZ": "Rakousko",
+        "SI": "Avstrija"
+      },
+      "skiResort": "Skifun – Kreischberg",
+      "startDate": "2026-12-11",
+      "endDate": "2026-12-13",
+      "note": ""
+    },
+    {
+      "id": 20,
+      "country": {
+        "EN": "Austria",
+        "DE": "Österreich",
+        "IT": "Austria",
+        "FR": "Autriche",
+        "CZ": "Rakousko",
+        "SI": "Avstrija"
+      },
+      "skiResort": "Ski Pass – Katschberg",
+      "startDate": "2026-12-26",
+      "endDate": "",
+      "note": ""
+    },
+    {
+      "id": 21,
+      "country": {
+        "EN": "Italy",
+        "DE": "Italien",
+        "IT": "Italia",
+        "FR": "Italie",
+        "CZ": "Itálie",
+        "SI": "Italija"
+      },
+      "skiResort": "Ski Erik – Kronplatz",
+      "startDate": "2026-11-27",
+      "endDate": "2026-11-29",
+      "note": ""
+    },
+    {
+      "id": 22,
+      "country": {
+        "EN": "Italy",
+        "DE": "Italien",
+        "IT": "Italia",
+        "FR": "Italie",
+        "CZ": "Itálie",
+        "SI": "Italija"
+      },
+      "skiResort": "HZUTS – Drei Zinnen",
+      "startDate": "2026-12-11",
+      "endDate": "2026-12-12",
+      "note": ""
+    },
+    {
+      "id": 23,
+      "country": {
+        "EN": "Slovenia",
+        "DE": "Slowenien",
+        "IT": "Slovenia",
+        "FR": "Slovénie",
+        "CZ": "Slovinsko",
+        "SI": "Slovenija"
+      },
+      "skiResort": "Ace Tour – Kr. Gora",
+      "startDate": "2027-01-09",
+      "endDate": "",
+      "note": ""
+    },
+    {
+      "id": 24,
+      "country": {
+        "EN": "Slovenia",
+        "DE": "Slowenien",
+        "IT": "Slovenia",
+        "FR": "Slovénie",
+        "CZ": "Slovinsko",
+        "SI": "Slovenija"
+      },
+      "skiResort": "Ace Tour – Krvavec",
+      "startDate": "2027-01-16",
+      "endDate": "",
+      "note": ""
+    },
+    {
+      "id": 25,
+      "country": {
+        "EN": "Slovenia",
+        "DE": "Slowenien",
+        "IT": "Slovenia",
+        "FR": "Slovénie",
+        "CZ": "Slovinsko",
+        "SI": "Slovenija"
+      },
+      "skiResort": "Ace Tour – Rogla",
+      "startDate": "2027-01-23",
+      "endDate": "",
+      "note": ""
+    },
+    {
+      "id": 26,
+      "country": {
+        "EN": "Slovenia",
+        "DE": "Slowenien",
+        "IT": "Slovenia",
+        "FR": "Slovénie",
+        "CZ": "Slovinsko",
+        "SI": "Slovenija"
+      },
+      "skiResort": "Ace Tour – Maribor",
+      "startDate": "2027-01-30",
+      "endDate": "",
+      "note": ""
+    },
+    {
+      "id": 27,
+      "country": {
+        "EN": "Slovenia",
+        "DE": "Slowenien",
+        "IT": "Slovenia",
+        "FR": "Slovénie",
+        "CZ": "Slovinsko",
+        "SI": "Slovenija"
+      },
+      "skiResort": "Ace Tour – Krvavec (Zaključek)",
+      "startDate": "2027-02-06",
+      "endDate": "",
+      "note": ""
+    },
+    {
+      "id": 28,
+      "country": {
+        "EN": "Slovenia",
+        "DE": "Slowenien",
+        "IT": "Slovenia",
+        "FR": "Slovénie",
+        "CZ": "Slovinsko",
+        "SI": "Slovenija"
+      },
+      "skiResort": "Extreme Vital – Kr. Gora",
+      "startDate": "2027-02-08",
+      "endDate": "",
+      "note": ""
+    },
+    {
+      "id": 29,
+      "country": {
+        "EN": "Austria",
+        "DE": "Österreich",
+        "IT": "Austria",
+        "FR": "Autriche",
+        "CZ": "Rakousko",
+        "SI": "Avstrija"
+      },
+      "skiResort": "Reiteralm",
+      "startDate": "2026-12-05",
+      "endDate": "",
+      "note": ""
+    },
+    {
+      "id": 30,
+      "country": {
+        "EN": "Austria",
+        "DE": "Österreich",
+        "IT": "Austria",
+        "FR": "Autriche",
+        "CZ": "Rakousko",
+        "SI": "Avstrija"
+      },
+      "skiResort": "St. Anton",
+      "startDate": "2026-12-05",
+      "endDate": "2026-12-06",
+      "note": ""
+    },
+    {
+      "id": 31,
+      "country": {
+        "EN": "Austria",
+        "DE": "Österreich",
+        "IT": "Austria",
+        "FR": "Autriche",
+        "CZ": "Rakousko",
+        "SI": "Avstrija"
+      },
+      "skiResort": "Hinterstoder",
+      "startDate": "2026-12-08",
+      "endDate": "",
+      "note": ""
+    },
+    {
+      "id": 32,
+      "country": {
+        "EN": "Austria",
+        "DE": "Österreich",
+        "IT": "Austria",
+        "FR": "Autriche",
+        "CZ": "Rakousko",
+        "SI": "Avstrija"
+      },
+      "skiResort": "Sankt Oswald",
+      "startDate": "2026-12-12",
+      "endDate": "",
+      "note": ""
+    },
+    {
+      "id": 33,
+      "country": {
+        "EN": "Austria",
+        "DE": "Österreich",
+        "IT": "Austria",
+        "FR": "Autriche",
+        "CZ": "Rakousko",
+        "SI": "Avstrija"
+      },
+      "skiResort": "Kreischberg",
+      "startDate": "2026-12-19",
+      "endDate": "",
+      "note": ""
+    },
+    {
+      "id": 34,
+      "country": {
+        "EN": "Austria",
+        "DE": "Österreich",
+        "IT": "Austria",
+        "FR": "Autriche",
+        "CZ": "Rakousko",
+        "SI": "Avstrija"
+      },
+      "skiResort": "Söll",
+      "startDate": "2026-12-19",
+      "endDate": "",
+      "note": ""
+    },
+    {
+      "id": 35,
+      "country": {
+        "EN": "Austria",
+        "DE": "Österreich",
+        "IT": "Austria",
+        "FR": "Autriche",
+        "CZ": "Rakousko",
+        "SI": "Avstrija"
+      },
+      "skiResort": "Mölltaler Gletscher",
+      "startDate": "2026-11-21",
+      "endDate": "2026-11-22",
+      "note": ""
+    },
+    {
+      "id": 36,
+      "country": {
+        "EN": "Slovenia",
+        "DE": "Slowenien",
+        "IT": "Slovenia",
+        "FR": "Slovénie",
+        "CZ": "Slovinsko",
+        "SI": "Slovenija"
+      },
+      "skiResort": "Intersport Bernik – Kr. Gora",
+      "startDate": "2026-12-19",
+      "endDate": "",
+      "note": ""
+    },
+    {
+      "id": 37,
+      "country": {
+        "EN": "Austria",
+        "DE": "Österreich",
+        "IT": "Austria",
+        "FR": "Autriche",
+        "CZ": "Rakousko",
+        "SI": "Avstrija"
+      },
+      "skiResort": "A1 x Skipass x Elan – Nassfeld",
+      "startDate": "2027-01-09",
+      "endDate": "",
+      "note": ""
+    },
+    {
+      "id": 38,
+      "country": {
+        "EN": "Austria",
+        "DE": "Österreich",
+        "IT": "Austria",
+        "FR": "Autriche",
+        "CZ": "Rakousko",
+        "SI": "Avstrija"
+      },
+      "skiResort": "A1 x Skipass x Elan – Gerlitzen",
+      "startDate": "2027-02-06",
+      "endDate": "",
+      "note": ""
+    },
+    {
+      "id": 39,
+      "country": {
+        "EN": "Austria",
+        "DE": "Österreich",
+        "IT": "Austria",
+        "FR": "Autriche",
+        "CZ": "Rakousko",
+        "SI": "Avstrija"
+      },
+      "skiResort": "A1 x Skipass x Elan – Katschberg",
+      "startDate": "2027-02-08",
+      "endDate": "",
+      "note": ""
+    },
+    {
+      "id": 40,
+      "country": {
+        "EN": "Austria",
+        "DE": "Österreich",
+        "IT": "Austria",
+        "FR": "Autriche",
+        "CZ": "Rakousko",
+        "SI": "Avstrija"
+      },
+      "skiResort": "A1 x Skipass x Elan – Bad Kleinkirchheim",
+      "startDate": "2027-02-13",
+      "endDate": "",
+      "note": ""
+    },
+    {
+      "id": 41,
+      "country": {
+        "EN": "Austria",
+        "DE": "Österreich",
+        "IT": "Austria",
+        "FR": "Autriche",
+        "CZ": "Rakousko",
+        "SI": "Avstrija"
+      },
+      "skiResort": "A1 x Skipass x Elan – Turracher Höhe",
+      "startDate": "2027-03-13",
+      "endDate": "",
+      "note": ""
+    },
+    {
+      "id": 42,
+      "country": {
+        "EN": "Austria",
+        "DE": "Österreich",
+        "IT": "Austria",
+        "FR": "Autriche",
+        "CZ": "Rakousko",
+        "SI": "Avstrija"
+      },
+      "skiResort": "Ski Pass – Kreischberg",
+      "startDate": "2027-03-18",
+      "endDate": "2027-03-21",
+      "note": ""
+    },
+    {
+      "id": 43,
+      "country": {
+        "EN": "Canada",
+        "DE": "Kanada",
+        "IT": "Canada",
+        "FR": "Canada",
+        "CZ": "Kanada",
+        "SI": "Kanada"
+      },
+      "skiResort": "Sommet Saint-Sauveur",
+      "startDate": "2027-01-09",
+      "endDate": "",
+      "note": "Québec"
+    },
+    {
+      "id": 44,
+      "country": {
+        "EN": "Canada",
+        "DE": "Kanada",
+        "IT": "Canada",
+        "FR": "Canada",
+        "CZ": "Kanada",
+        "SI": "Kanada"
+      },
+      "skiResort": "Owl’s Head",
+      "startDate": "2027-01-16",
+      "endDate": "",
+      "note": "Québec"
+    },
+    {
+      "id": 45,
+      "country": {
+        "EN": "Canada",
+        "DE": "Kanada",
+        "IT": "Canada",
+        "FR": "Canada",
+        "CZ": "Kanada",
+        "SI": "Kanada"
+      },
+      "skiResort": "Mont Sutton",
+      "startDate": "2027-01-17",
+      "endDate": "",
+      "note": "Québec"
+    },
+    {
+      "id": 46,
+      "country": {
+        "EN": "Canada",
+        "DE": "Kanada",
+        "IT": "Canada",
+        "FR": "Canada",
+        "CZ": "Kanada",
+        "SI": "Kanada"
+      },
+      "skiResort": "Val St-Côme",
+      "startDate": "2027-01-23",
+      "endDate": "",
+      "note": "Québec"
+    },
+    {
+      "id": 47,
+      "country": {
+        "EN": "Canada",
+        "DE": "Kanada",
+        "IT": "Canada",
+        "FR": "Canada",
+        "CZ": "Kanada",
+        "SI": "Kanada"
+      },
+      "skiResort": "Mont Garceau",
+      "startDate": "2027-01-24",
+      "endDate": "",
+      "note": "Québec"
+    },
+    {
+      "id": 48,
+      "country": {
+        "EN": "Canada",
+        "DE": "Kanada",
+        "IT": "Canada",
+        "FR": "Canada",
+        "CZ": "Kanada",
+        "SI": "Kanada"
+      },
+      "skiResort": "Le Relais",
+      "startDate": "2027-01-30",
+      "endDate": "",
+      "note": "Québec"
+    },
+    {
+      "id": 49,
+      "country": {
+        "EN": "Canada",
+        "DE": "Kanada",
+        "IT": "Canada",
+        "FR": "Canada",
+        "CZ": "Kanada",
+        "SI": "Kanada"
+      },
+      "skiResort": "Mont Blanc",
+      "startDate": "2027-02-06",
+      "endDate": "",
+      "note": "Québec"
+    },
+    {
+      "id": 50,
+      "country": {
+        "EN": "Canada",
+        "DE": "Kanada",
+        "IT": "Canada",
+        "FR": "Canada",
+        "CZ": "Kanada",
+        "SI": "Kanada"
+      },
+      "skiResort": "Sommet Morin-Heights",
+      "startDate": "2027-02-13",
+      "endDate": "",
+      "note": "Québec"
+    },
+    {
+      "id": 51,
+      "country": {
+        "EN": "Austria",
+        "DE": "Österreich",
+        "IT": "Austria",
+        "FR": "Autriche",
+        "CZ": "Rakousko",
+        "SI": "Avstrija"
+      },
+      "skiResort": "Mölltaler Gletscher",
+      "startDate": "2026-12-21",
+      "endDate": "2026-12-22",
+      "note": ""
+    },
+    {
+      "id": 52,
+      "country": {
+        "EN": "Finland",
+        "DE": "Finnland",
+        "IT": "Finlandia",
+        "FR": "Finlande",
+        "CZ": "Finsko",
+        "SI": "Finska"
+      },
+      "skiResort": "Vihti",
+      "startDate": "2027-01-31",
+      "endDate": "",
+      "note": "https://www.vihtiski.fi/ | Ski.fi"
+    },
+    {
+      "id": 53,
+      "country": {
+        "EN": "Finland",
+        "DE": "Finnland",
+        "IT": "Finlandia",
+        "FR": "Finlande",
+        "CZ": "Finsko",
+        "SI": "Finska"
+      },
+      "skiResort": "Sappee",
+      "startDate": "2027-01-31",
+      "endDate": "",
+      "note": "https://www.sappee.fi/ | Ski.fi"
+    },
+    {
+      "id": 54,
+      "country": {
+        "EN": "Finland",
+        "DE": "Finnland",
+        "IT": "Finlandia",
+        "FR": "Finlande",
+        "CZ": "Finsko",
+        "SI": "Finska"
+      },
+      "skiResort": "Messilä",
+      "startDate": "2027-01-17",
+      "endDate": "",
+      "note": "https://messila.fi/laskettelukeskus/ | Ski.fi"
+    },
+    {
+      "id": 55,
+      "country": {
+        "EN": "Finland",
+        "DE": "Finnland",
+        "IT": "Finlandia",
+        "FR": "Finlande",
+        "CZ": "Finsko",
+        "SI": "Finska"
+      },
+      "skiResort": "Himos",
+      "startDate": "2027-01-16",
+      "endDate": "",
+      "note": "https://himos.fi/ | Ski.fi"
+    },
+    {
+      "id": 56,
+      "country": {
+        "EN": "Finland",
+        "DE": "Finnland",
+        "IT": "Finlandia",
+        "FR": "Finlande",
+        "CZ": "Finsko",
+        "SI": "Finska"
+      },
+      "skiResort": "Ounasvaara",
+      "startDate": "TBD",
+      "endDate": "",
+      "note": "https://ounasvaara.fi/"
+    },
+    {
+      "id": 57,
+      "country": {
+        "EN": "Finland",
+        "DE": "Finnland",
+        "IT": "Finlandia",
+        "FR": "Finlande",
+        "CZ": "Finsko",
+        "SI": "Finska"
+      },
+      "skiResort": "Koli",
+      "startDate": "TBD",
+      "endDate": "",
+      "note": "https://www.koli.fi/"
+    },
+    {
+      "id": 58,
+      "country": {
+        "EN": "Finland",
+        "DE": "Finnland",
+        "IT": "Finlandia",
+        "FR": "Finlande",
+        "CZ": "Finsko",
+        "SI": "Finska"
+      },
+      "skiResort": "Koli",
+      "startDate": "TBD",
+      "endDate": "",
+      "note": "https://www.koli.fi/"
+    },
+    {
+      "id": 59,
+      "country": {
+        "EN": "Finland",
+        "DE": "Finnland",
+        "IT": "Finlandia",
+        "FR": "Finlande",
+        "CZ": "Finsko",
+        "SI": "Finska"
+      },
+      "skiResort": "Messilä",
+      "startDate": "TBD",
+      "endDate": "",
+      "note": "https://messila.fi/laskettelukeskus/ | Scandinavian Outdoor"
+    },
+    {
+      "id": 60,
+      "country": {
+        "EN": "Finland",
+        "DE": "Finnland",
+        "IT": "Finlandia",
+        "FR": "Finlande",
+        "CZ": "Finsko",
+        "SI": "Finska"
+      },
+      "skiResort": "Peuramaa",
+      "startDate": "TBD",
+      "endDate": "",
+      "note": "https://www.peuramaa.fi/"
+    },
+    {
+      "id": 61,
+      "country": {
+        "EN": "Finland",
+        "DE": "Finnland",
+        "IT": "Finlandia",
+        "FR": "Finlande",
+        "CZ": "Finsko",
+        "SI": "Finska"
+      },
+      "skiResort": "Himos",
+      "startDate": "TBD",
+      "endDate": "",
+      "note": "https://himos.fi/"
+    },
+    {
+      "id": 62,
+      "country": {
+        "EN": "Finland",
+        "DE": "Finnland",
+        "IT": "Finlandia",
+        "FR": "Finlande",
+        "CZ": "Finsko",
+        "SI": "Finska"
+      },
+      "skiResort": "Himos",
+      "startDate": "TBD",
+      "endDate": "",
+      "note": "https://himos.fi/"
+    }
+  ],
+  "centers": [
+    {
+      "id": 1,
+      "country": {
+        "EN": "USA",
+        "DE": "USA",
+        "IT": "Stati Uniti",
+        "FR": "États-Unis",
+        "CZ": "Spojené státy",
+        "SI": "ZDA"
+      },
+      "skiResort": "Al's Sporting Goods Inc"
+    },
+    {
+      "id": 2,
+      "country": {
+        "EN": "USA",
+        "DE": "USA",
+        "IT": "Stati Uniti",
+        "FR": "États-Unis",
+        "CZ": "Spojené státy",
+        "SI": "ZDA"
+      },
+      "skiResort": "Jr Enterprise Inc"
+    },
+    {
+      "id": 3,
+      "country": {
+        "EN": "USA",
+        "DE": "USA",
+        "IT": "Stati Uniti",
+        "FR": "États-Unis",
+        "CZ": "Spojené státy",
+        "SI": "ZDA"
+      },
+      "skiResort": "Alpenglow Sports, Inc."
+    },
+    {
+      "id": 4,
+      "country": {
+        "EN": "USA",
+        "DE": "USA",
+        "IT": "Stati Uniti",
+        "FR": "États-Unis",
+        "CZ": "Spojené státy",
+        "SI": "ZDA"
+      },
+      "skiResort": "Alta Sports Inc"
+    },
+    {
+      "id": 5,
+      "country": {
+        "EN": "USA",
+        "DE": "USA",
+        "IT": "Stati Uniti",
+        "FR": "États-Unis",
+        "CZ": "Spojené státy",
+        "SI": "ZDA"
+      },
+      "skiResort": "Mountain Town Ventures"
+    },
+    {
+      "id": 6,
+      "country": {
+        "EN": "USA",
+        "DE": "USA",
+        "IT": "Stati Uniti",
+        "FR": "États-Unis",
+        "CZ": "Spojené státy",
+        "SI": "ZDA"
+      },
+      "skiResort": "Backcountry Essentials"
+    },
+    {
+      "id": 7,
+      "country": {
+        "EN": "USA",
+        "DE": "USA",
+        "IT": "Stati Uniti",
+        "FR": "États-Unis",
+        "CZ": "Spojené státy",
+        "SI": "ZDA"
+      },
+      "skiResort": "Backcountry Experience"
+    },
+    {
+      "id": 8,
+      "country": {
+        "EN": "USA",
+        "DE": "USA",
+        "IT": "Stati Uniti",
+        "FR": "États-Unis",
+        "CZ": "Spojené státy",
+        "SI": "ZDA"
+      },
+      "skiResort": "Jmr Sports Services Llc"
+    },
+    {
+      "id": 9,
+      "country": {
+        "EN": "USA",
+        "DE": "USA",
+        "IT": "Stati Uniti",
+        "FR": "États-Unis",
+        "CZ": "Spojené státy",
+        "SI": "ZDA"
+      },
+      "skiResort": "B T Mountain Inc."
+    },
+    {
+      "id": 10,
+      "country": {
+        "EN": "USA",
+        "DE": "USA",
+        "IT": "Stati Uniti",
+        "FR": "États-Unis",
+        "CZ": "Spojené státy",
+        "SI": "ZDA"
+      },
+      "skiResort": "Saltary Ski Llc"
+    },
+    {
+      "id": 11,
+      "country": {
+        "EN": "USA",
+        "DE": "USA",
+        "IT": "Stati Uniti",
+        "FR": "États-Unis",
+        "CZ": "Spojené státy",
+        "SI": "ZDA"
+      },
+      "skiResort": "Boyne Usa, Inc"
+    },
+    {
+      "id": 12,
+      "country": {
+        "EN": "USA",
+        "DE": "USA",
+        "IT": "Stati Uniti",
+        "FR": "États-Unis",
+        "CZ": "Spojené státy",
+        "SI": "ZDA"
+      },
+      "skiResort": "R & R Sports-crested Butte,llc"
+    },
+    {
+      "id": 13,
+      "country": {
+        "EN": "USA",
+        "DE": "USA",
+        "IT": "Stati Uniti",
+        "FR": "États-Unis",
+        "CZ": "Spojené státy",
+        "SI": "ZDA"
+      },
+      "skiResort": "Christy Sports, Llc"
+    },
+    {
+      "id": 14,
+      "country": {
+        "EN": "USA",
+        "DE": "USA",
+        "IT": "Stati Uniti",
+        "FR": "États-Unis",
+        "CZ": "Spojené státy",
+        "SI": "ZDA"
+      },
+      "skiResort": "Cripple Creek Backcountry"
+    },
+    {
+      "id": 15,
+      "country": {
+        "EN": "USA",
+        "DE": "USA",
+        "IT": "Stati Uniti",
+        "FR": "États-Unis",
+        "CZ": "Spojené státy",
+        "SI": "ZDA"
+      },
+      "skiResort": "Eco Lounge Free Ride Shop"
+    },
+    {
+      "id": 16,
+      "country": {
+        "EN": "USA",
+        "DE": "USA",
+        "IT": "Stati Uniti",
+        "FR": "États-Unis",
+        "CZ": "Spojené státy",
+        "SI": "ZDA"
+      },
+      "skiResort": "Bulkley Enterprises, Inc."
+    },
+    {
+      "id": 17,
+      "country": {
+        "EN": "USA",
+        "DE": "USA",
+        "IT": "Stati Uniti",
+        "FR": "États-Unis",
+        "CZ": "Spojené státy",
+        "SI": "ZDA"
+      },
+      "skiResort": "Gravity Pro Sports Llc"
+    },
+    {
+      "id": 18,
+      "country": {
+        "EN": "USA",
+        "DE": "USA",
+        "IT": "Stati Uniti",
+        "FR": "États-Unis",
+        "CZ": "Spojené státy",
+        "SI": "ZDA"
+      },
+      "skiResort": "Fifth Season"
+    },
+    {
+      "id": 19,
+      "country": {
+        "EN": "USA",
+        "DE": "USA",
+        "IT": "Stati Uniti",
+        "FR": "États-Unis",
+        "CZ": "Spojené státy",
+        "SI": "ZDA"
+      },
+      "skiResort": "Stratton  Corp."
+    },
+    {
+      "id": 20,
+      "country": {
+        "EN": "USA",
+        "DE": "USA",
+        "IT": "Stati Uniti",
+        "FR": "États-Unis",
+        "CZ": "Spojené státy",
+        "SI": "ZDA"
+      },
+      "skiResort": "Footloose, Inc"
+    },
+    {
+      "id": 21,
+      "country": {
+        "EN": "USA",
+        "DE": "USA",
+        "IT": "Stati Uniti",
+        "FR": "États-Unis",
+        "CZ": "Spojené státy",
+        "SI": "ZDA"
+      },
+      "skiResort": "Gunstock Ski Area"
+    },
+    {
+      "id": 22,
+      "country": {
+        "EN": "USA",
+        "DE": "USA",
+        "IT": "Stati Uniti",
+        "FR": "États-Unis",
+        "CZ": "Spojené státy",
+        "SI": "ZDA"
+      },
+      "skiResort": "Halfpipe 946, Inc."
+    },
+    {
+      "id": 23,
+      "country": {
+        "EN": "USA",
+        "DE": "USA",
+        "IT": "Stati Uniti",
+        "FR": "États-Unis",
+        "CZ": "Spojené státy",
+        "SI": "ZDA"
+      },
+      "skiResort": "Hamilton Sports"
+    },
+    {
+      "id": 24,
+      "country": {
+        "EN": "USA",
+        "DE": "USA",
+        "IT": "Stati Uniti",
+        "FR": "États-Unis",
+        "CZ": "Spojené státy",
+        "SI": "ZDA"
+      },
+      "skiResort": "Hidden Valley Resort"
+    },
+    {
+      "id": 25,
+      "country": {
+        "EN": "USA",
+        "DE": "USA",
+        "IT": "Stati Uniti",
+        "FR": "États-Unis",
+        "CZ": "Spojené státy",
+        "SI": "ZDA"
+      },
+      "skiResort": "Rr Holdings Llc"
+    },
+    {
+      "id": 26,
+      "country": {
+        "EN": "USA",
+        "DE": "USA",
+        "IT": "Stati Uniti",
+        "FR": "États-Unis",
+        "CZ": "Spojené státy",
+        "SI": "ZDA"
+      },
+      "skiResort": "Epic Mtn Llc"
+    },
+    {
+      "id": 27,
+      "country": {
+        "EN": "USA",
+        "DE": "USA",
+        "IT": "Stati Uniti",
+        "FR": "États-Unis",
+        "CZ": "Spojené státy",
+        "SI": "ZDA"
+      },
+      "skiResort": "Jay Peak Inc."
+    },
+    {
+      "id": 28,
+      "country": {
+        "EN": "USA",
+        "DE": "USA",
+        "IT": "Stati Uniti",
+        "FR": "États-Unis",
+        "CZ": "Spojené státy",
+        "SI": "ZDA"
+      },
+      "skiResort": "Ml Monkeybar, Inc."
+    },
+    {
+      "id": 29,
+      "country": {
+        "EN": "USA",
+        "DE": "USA",
+        "IT": "Stati Uniti",
+        "FR": "États-Unis",
+        "CZ": "Spojené státy",
+        "SI": "ZDA"
+      },
+      "skiResort": "Mountainside Ski Service Inc"
+    },
+    {
+      "id": 30,
+      "country": {
+        "EN": "USA",
+        "DE": "USA",
+        "IT": "Stati Uniti",
+        "FR": "États-Unis",
+        "CZ": "Spojené státy",
+        "SI": "ZDA"
+      },
+      "skiResort": "Omer & Bob Ski & Tennis"
+    },
+    {
+      "id": 31,
+      "country": {
+        "EN": "USA",
+        "DE": "USA",
+        "IT": "Stati Uniti",
+        "FR": "États-Unis",
+        "CZ": "Spojené státy",
+        "SI": "ZDA"
+      },
+      "skiResort": "On the Edge Tuning"
+    },
+    {
+      "id": 32,
+      "country": {
+        "EN": "USA",
+        "DE": "USA",
+        "IT": "Stati Uniti",
+        "FR": "États-Unis",
+        "CZ": "Spojené státy",
+        "SI": "ZDA"
+      },
+      "skiResort": "Sport Outdoor Divas Llc Office"
+    },
+    {
+      "id": 33,
+      "country": {
+        "EN": "USA",
+        "DE": "USA",
+        "IT": "Stati Uniti",
+        "FR": "États-Unis",
+        "CZ": "Spojené státy",
+        "SI": "ZDA"
+      },
+      "skiResort": "Pepi Sports"
+    },
+    {
+      "id": 34,
+      "country": {
+        "EN": "USA",
+        "DE": "USA",
+        "IT": "Stati Uniti",
+        "FR": "États-Unis",
+        "CZ": "Spojené státy",
+        "SI": "ZDA"
+      },
+      "skiResort": "Pinnacle Ski & Sports"
+    },
+    {
+      "id": 35,
+      "country": {
+        "EN": "USA",
+        "DE": "USA",
+        "IT": "Stati Uniti",
+        "FR": "États-Unis",
+        "CZ": "Spojené státy",
+        "SI": "ZDA"
+      },
+      "skiResort": "Potter Brothers Ski Shop"
+    },
+    {
+      "id": 36,
+      "country": {
+        "EN": "USA",
+        "DE": "USA",
+        "IT": "Stati Uniti",
+        "FR": "États-Unis",
+        "CZ": "Spojené státy",
+        "SI": "ZDA"
+      },
+      "skiResort": "2nd Wind Sports Llc"
+    },
+    {
+      "id": 37,
+      "country": {
+        "EN": "USA",
+        "DE": "USA",
+        "IT": "Stati Uniti",
+        "FR": "États-Unis",
+        "CZ": "Spojené státy",
+        "SI": "ZDA"
+      },
+      "skiResort": "Ark Transportation, Inc"
+    },
+    {
+      "id": 38,
+      "country": {
+        "EN": "USA",
+        "DE": "USA",
+        "IT": "Stati Uniti",
+        "FR": "États-Unis",
+        "CZ": "Spojené státy",
+        "SI": "ZDA"
+      },
+      "skiResort": "Rroi, Llc"
+    },
+    {
+      "id": 39,
+      "country": {
+        "EN": "USA",
+        "DE": "USA",
+        "IT": "Stati Uniti",
+        "FR": "États-Unis",
+        "CZ": "Spojené státy",
+        "SI": "ZDA"
+      },
+      "skiResort": "Ski Haus Inc."
+    },
+    {
+      "id": 40,
+      "country": {
+        "EN": "USA",
+        "DE": "USA",
+        "IT": "Stati Uniti",
+        "FR": "États-Unis",
+        "CZ": "Spojené státy",
+        "SI": "ZDA"
+      },
+      "skiResort": "Crown Enterprises, Inc."
+    },
+    {
+      "id": 41,
+      "country": {
+        "EN": "USA",
+        "DE": "USA",
+        "IT": "Stati Uniti",
+        "FR": "États-Unis",
+        "CZ": "Spojené státy",
+        "SI": "ZDA"
+      },
+      "skiResort": "Alterra Mountain Co - Colorado"
+    },
+    {
+      "id": 42,
+      "country": {
+        "EN": "USA",
+        "DE": "USA",
+        "IT": "Stati Uniti",
+        "FR": "États-Unis",
+        "CZ": "Spojené státy",
+        "SI": "ZDA"
+      },
+      "skiResort": "Strand's Ski Shop, Inc."
+    },
+    {
+      "id": 43,
+      "country": {
+        "EN": "USA",
+        "DE": "USA",
+        "IT": "Stati Uniti",
+        "FR": "États-Unis",
+        "CZ": "Spojené státy",
+        "SI": "ZDA"
+      },
+      "skiResort": "Sunset Ski & Sail, Inc."
+    },
+    {
+      "id": 44,
+      "country": {
+        "EN": "USA",
+        "DE": "USA",
+        "IT": "Stati Uniti",
+        "FR": "États-Unis",
+        "CZ": "Spojené státy",
+        "SI": "ZDA"
+      },
+      "skiResort": "Farmer & Jenkins, Inc."
+    },
+    {
+      "id": 45,
+      "country": {
+        "EN": "USA",
+        "DE": "USA",
+        "IT": "Stati Uniti",
+        "FR": "États-Unis",
+        "CZ": "Spojené státy",
+        "SI": "ZDA"
+      },
+      "skiResort": "Tamarack Ski Shop"
+    },
+    {
+      "id": 46,
+      "country": {
+        "EN": "USA",
+        "DE": "USA",
+        "IT": "Stati Uniti",
+        "FR": "États-Unis",
+        "CZ": "Spojené státy",
+        "SI": "ZDA"
+      },
+      "skiResort": "Pro Ski-n-sport, Inc."
+    },
+    {
+      "id": 47,
+      "country": {
+        "EN": "USA",
+        "DE": "USA",
+        "IT": "Stati Uniti",
+        "FR": "États-Unis",
+        "CZ": "Spojené státy",
+        "SI": "ZDA"
+      },
+      "skiResort": "Vjr Ski Corp"
+    },
+    {
+      "id": 48,
+      "country": {
+        "EN": "USA",
+        "DE": "USA",
+        "IT": "Stati Uniti",
+        "FR": "États-Unis",
+        "CZ": "Spojené státy",
+        "SI": "ZDA"
+      },
+      "skiResort": "Ski Company Ltd. (Mi)"
+    },
+    {
+      "id": 49,
+      "country": {
+        "EN": "USA",
+        "DE": "USA",
+        "IT": "Stati Uniti",
+        "FR": "États-Unis",
+        "CZ": "Spojené státy",
+        "SI": "ZDA"
+      },
+      "skiResort": "Tygart Mountain Sports, Llc"
+    },
+    {
+      "id": 50,
+      "country": {
+        "EN": "USA",
+        "DE": "USA",
+        "IT": "Stati Uniti",
+        "FR": "États-Unis",
+        "CZ": "Spojené státy",
+        "SI": "ZDA"
+      },
+      "skiResort": "Utah Ski Gear, Llc Office"
+    },
+    {
+      "id": 51,
+      "country": {
+        "EN": "USA",
+        "DE": "USA",
+        "IT": "Stati Uniti",
+        "FR": "États-Unis",
+        "CZ": "Spojené státy",
+        "SI": "ZDA"
+      },
+      "skiResort": "Utah Ski & Golf"
+    },
+    {
+      "id": 52,
+      "country": {
+        "EN": "USA",
+        "DE": "USA",
+        "IT": "Stati Uniti",
+        "FR": "États-Unis",
+        "CZ": "Spojené státy",
+        "SI": "ZDA"
+      },
+      "skiResort": "Venture Sports Inc"
+    },
+    {
+      "id": 53,
+      "country": {
+        "EN": "USA",
+        "DE": "USA",
+        "IT": "Stati Uniti",
+        "FR": "États-Unis",
+        "CZ": "Spojené státy",
+        "SI": "ZDA"
+      },
+      "skiResort": "Village Ski Loft"
+    },
+    {
+      "id": 54,
+      "country": {
+        "EN": "USA",
+        "DE": "USA",
+        "IT": "Stati Uniti",
+        "FR": "États-Unis",
+        "CZ": "Spojené státy",
+        "SI": "ZDA"
+      },
+      "skiResort": "The Ski Monster"
+    },
+    {
+      "id": 55,
+      "country": {
+        "EN": "Austria",
+        "DE": "Österreich",
+        "IT": "Austria",
+        "FR": "Autriche",
+        "CZ": "Rakousko",
+        "SI": "Avstrija"
+      },
+      "skiResort": "Kitzbühel"
+    }
+  ]
+}
