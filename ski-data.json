@@ -283,7 +283,7 @@
       "skiResort": "Skifun – Kreischberg",
       "startDate": "2026-12-11",
       "endDate": "2026-12-13",
-      "note": ""
+      "note": "Ski testi Slovenske distribucije"
     },
     {
       "id": 20,
@@ -298,7 +298,7 @@
       "skiResort": "Ski Pass – Katschberg",
       "startDate": "2026-12-26",
       "endDate": "",
-      "note": ""
+      "note": "Ski testi Slovenske distribucije"
     },
     {
       "id": 21,
@@ -311,9 +311,9 @@
         "SI": "Italija"
       },
       "skiResort": "Ski Erik – Kronplatz",
-      "startDate": "2026-11-27",
+      "startDate": "2026-11-28",
       "endDate": "2026-11-29",
-      "note": ""
+      "note": "Ski testi Slovenske distribucije"
     },
     {
       "id": 22,
@@ -328,7 +328,7 @@
       "skiResort": "HZUTS – Drei Zinnen",
       "startDate": "2026-12-11",
       "endDate": "2026-12-12",
-      "note": ""
+      "note": "Ski testi Slovenske distribucije"
     },
     {
       "id": 23,
@@ -343,7 +343,7 @@
       "skiResort": "Ace Tour – Kr. Gora",
       "startDate": "2027-01-09",
       "endDate": "",
-      "note": ""
+      "note": "Ski testi Slovenske distribucije"
     },
     {
       "id": 24,
@@ -358,7 +358,7 @@
       "skiResort": "Ace Tour – Krvavec",
       "startDate": "2027-01-16",
       "endDate": "",
-      "note": ""
+      "note": "Ski testi Slovenske distribucije"
     },
     {
       "id": 25,
@@ -371,9 +371,9 @@
         "SI": "Slovenija"
       },
       "skiResort": "Ace Tour – Rogla",
-      "startDate": "2027-01-23",
+      "startDate": "2027-01-30",
       "endDate": "",
-      "note": ""
+      "note": "Ski testi Slovenske distribucije"
     },
     {
       "id": 26,
@@ -386,9 +386,9 @@
         "SI": "Slovenija"
       },
       "skiResort": "Ace Tour – Maribor",
-      "startDate": "2027-01-30",
+      "startDate": "2027-01-23",
       "endDate": "",
-      "note": ""
+      "note": "Ski testi Slovenske distribucije"
     },
     {
       "id": 27,
@@ -403,7 +403,7 @@
       "skiResort": "Ace Tour – Krvavec (Zaključek)",
       "startDate": "2027-02-06",
       "endDate": "",
-      "note": ""
+      "note": "Ski testi Slovenske distribucije"
     },
     {
       "id": 28,
@@ -418,7 +418,7 @@
       "skiResort": "Extreme Vital – Kr. Gora",
       "startDate": "2027-02-08",
       "endDate": "",
-      "note": ""
+      "note": "Ski testi Slovenske distribucije"
     },
     {
       "id": 29,
@@ -538,7 +538,7 @@
       "skiResort": "Intersport Bernik – Kr. Gora",
       "startDate": "2026-12-19",
       "endDate": "",
-      "note": ""
+      "note": "Ski testi Slovenske distribucije"
     },
     {
       "id": 37,
@@ -553,7 +553,7 @@
       "skiResort": "A1 x Skipass x Elan – Nassfeld",
       "startDate": "2027-01-09",
       "endDate": "",
-      "note": ""
+      "note": "Ski testi Slovenske distribucije"
     },
     {
       "id": 38,
@@ -568,7 +568,7 @@
       "skiResort": "A1 x Skipass x Elan – Gerlitzen",
       "startDate": "2027-02-06",
       "endDate": "",
-      "note": ""
+      "note": "Ski testi Slovenske distribucije"
     },
     {
       "id": 39,
@@ -583,7 +583,7 @@
       "skiResort": "A1 x Skipass x Elan – Katschberg",
       "startDate": "2027-02-08",
       "endDate": "",
-      "note": ""
+      "note": "Ski testi Slovenske distribucije"
     },
     {
       "id": 40,
@@ -598,7 +598,7 @@
       "skiResort": "A1 x Skipass x Elan – Bad Kleinkirchheim",
       "startDate": "2027-02-13",
       "endDate": "",
-      "note": ""
+      "note": "Ski testi Slovenske distribucije"
     },
     {
       "id": 41,
@@ -613,7 +613,7 @@
       "skiResort": "A1 x Skipass x Elan – Turracher Höhe",
       "startDate": "2027-03-13",
       "endDate": "",
-      "note": ""
+      "note": "Ski testi Slovenske distribucije"
     },
     {
       "id": 42,
@@ -628,7 +628,7 @@
       "skiResort": "Ski Pass – Kreischberg",
       "startDate": "2027-03-18",
       "endDate": "2027-03-21",
-      "note": ""
+      "note": "Ski testi Slovenske distribucije"
     },
     {
       "id": 43,
@@ -929,6 +929,111 @@
       "startDate": "TBD",
       "endDate": "",
       "note": "https://himos.fi/"
+    },
+    {
+      "id": 63,
+      "country": {
+        "EN": "Slovenia",
+        "DE": "Slowenien",
+        "IT": "Slovenia",
+        "FR": "Slovénie",
+        "CZ": "Slovinsko",
+        "SI": "Slovenija"
+      },
+      "skiResort": "Intersport – Krvavec",
+      "startDate": "2026-11-28",
+      "endDate": "",
+      "note": "Ski testi Slovenske distribucije"
+    },
+    {
+      "id": 64,
+      "country": {
+        "EN": "Slovenia",
+        "DE": "Slowenien",
+        "IT": "Slovenia",
+        "FR": "Slovénie",
+        "CZ": "Slovinsko",
+        "SI": "Slovenija"
+      },
+      "skiResort": "Kope opening – Kope",
+      "startDate": "2026-12-18",
+      "endDate": "2026-12-20",
+      "note": "Ski testi Slovenske distribucije"
+    },
+    {
+      "id": 65,
+      "country": {
+        "EN": "Slovenia",
+        "DE": "Slowenien",
+        "IT": "Slovenia",
+        "FR": "Slovénie",
+        "CZ": "Slovinsko",
+        "SI": "Slovenija"
+      },
+      "skiResort": "Extrem Vital – Krvavec",
+      "startDate": "2027-01-10",
+      "endDate": "",
+      "note": "Ski testi Slovenske distribucije"
+    },
+    {
+      "id": 66,
+      "country": {
+        "EN": "Slovenia",
+        "DE": "Slowenien",
+        "IT": "Slovenia",
+        "FR": "Slovénie",
+        "CZ": "Slovinsko",
+        "SI": "Slovenija"
+      },
+      "skiResort": "Intersport – Mariborsko Pohorje",
+      "startDate": "2027-01-16",
+      "endDate": "",
+      "note": "Ski testi Slovenske distribucije"
+    },
+    {
+      "id": 67,
+      "country": {
+        "EN": "Slovenia",
+        "DE": "Slowenien",
+        "IT": "Slovenia",
+        "FR": "Slovénie",
+        "CZ": "Slovinsko",
+        "SI": "Slovenija"
+      },
+      "skiResort": "Intersport – Rogla",
+      "startDate": "2027-01-23",
+      "endDate": "",
+      "note": "Ski testi Slovenske distribucije"
+    },
+    {
+      "id": 68,
+      "country": {
+        "EN": "Slovenia",
+        "DE": "Slowenien",
+        "IT": "Slovenia",
+        "FR": "Slovénie",
+        "CZ": "Slovinsko",
+        "SI": "Slovenija"
+      },
+      "skiResort": "Intersport – Krvavec",
+      "startDate": "2027-01-30",
+      "endDate": "",
+      "note": "Ski testi Slovenske distribucije"
+    },
+    {
+      "id": 69,
+      "country": {
+        "EN": "Slovenia",
+        "DE": "Slowenien",
+        "IT": "Slovenia",
+        "FR": "Slovénie",
+        "CZ": "Slovinsko",
+        "SI": "Slovenija"
+      },
+      "skiResort": "ELAN REBRAND EVENT – Kope",
+      "startDate": "2027-02-13",
+      "endDate": "2027-02-14",
+      "note": "Ski testi Slovenske distribucije"
     }
   ],
   "centers": [
