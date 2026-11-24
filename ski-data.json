@@ -931,21 +931,6 @@
       "note": "https://himos.fi/"
     },
     {
-      "id": 63,
-      "country": {
-        "EN": "Slovenia",
-        "DE": "Slowenien",
-        "IT": "Slovenia",
-        "FR": "Slovénie",
-        "CZ": "Slovinsko",
-        "SI": "Slovenija"
-      },
-      "skiResort": "Intersport – Krvavec",
-      "startDate": "2026-11-28",
-      "endDate": "",
-      "note": "Ski testi Slovenske distribucije"
-    },
-    {
       "id": 64,
       "country": {
         "EN": "Slovenia",
